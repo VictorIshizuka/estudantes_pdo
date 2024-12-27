@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Victor\\Pdo\\": "src/"
+        }
+    },
+    "require": {
+        "ext-pdo": "*"
+    }
+}
